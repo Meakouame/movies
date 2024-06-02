@@ -1,0 +1,25 @@
+button {
+  color: blue;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
+input {
+  color: blue;
+  background: #ccf;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 10px;
+  outline: none;
+}
+h1 {
+  color: blue;
+  font-size: 25px;
+}
+h1 + p {
+  color: blue;
+  font-size: 15px;
+}
